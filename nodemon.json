@@ -1,0 +1,8 @@
+{
+    "env":{ 
+        "DB_USER":"Supanat4400",     
+        "DB_PASSWORD": "0925294400",
+        "DB_NAME": "mern",
+        "JWT_KEY": "supersecret_key_donotshare"
+    }
+}

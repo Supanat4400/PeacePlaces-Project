@@ -30,7 +30,7 @@ app.use("/api/users/", usersRoutes);
 
 app.use((req, res, next) => {
  
-  const error = new HttpError("Could not find the requested page.", 404);
+  const error = new HttpError("Could not find the requested page JA.", 404);
   next(error);
 });
 
